@@ -7,10 +7,15 @@
 //
 ////////////////////////////////////////////////////////////////////////////////
 
-module.exports = {
-  root: true,
-  parser: '@babel/eslint-parser',
-  extends: [
-    '@qubit-ltd/eslint-config',
-  ],
-};
+import eslintConfig from '@qubit-ltd/eslint-config';
+
+export default [
+  ...eslintConfig,
+  {
+    files: ['src/**/*.js'],
+    languageOptions: {
+      ecmaVersion: 2022,
+      sourceType: 'module',
+    },
+  },
+];
