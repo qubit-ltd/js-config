@@ -6,7 +6,7 @@
 //    All rights reserved.
 //
 ////////////////////////////////////////////////////////////////////////////////
-import { BoolRule, IntegerRule, NumberRule } from '@qubit-ltd/common-validation-rule';
+import { BoolRule, IntegerRule, NumberRule } from '@qubit-ltd/validation-rule';
 
 /**
  * 将指定的字符串值转换为合适的类型。

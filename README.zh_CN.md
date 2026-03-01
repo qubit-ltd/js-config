@@ -3,8 +3,8 @@
 [![npm package](https://img.shields.io/npm/v/@qubit-ltd/config.svg)](https://npmjs.com/package/@qubit-ltd/config)
 [![License](https://img.shields.io/badge/License-Apache-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![English Document](https://img.shields.io/badge/document-English-blue.svg)](README.md)
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Haixing-Hu/js-config/tree/master.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/Haixing-Hu/js-config/tree/master)
-[![Coverage Status](https://coveralls.io/repos/github/Haixing-Hu/js-config/badge.svg?branch=master)](https://coveralls.io/github/Haixing-Hu/js-config?branch=master)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/qubit-ltd/js-config/tree/master.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/qubit-ltd/js-config/tree/master)
+[![Coverage Status](https://coveralls.io/repos/github/qubit-ltd/js-config/badge.svg?branch=master)](https://coveralls.io/github/qubit-ltd/js-config?branch=master)
 
 [@qubit-ltd/config] 是一个为应用程序提供全局配置对象的JavaScript库。
 
@@ -121,4 +121,4 @@ config.clear();
 有关更多详细信息，请参见[LICENSE](LICENSE)文件。
 
 [@qubit-ltd/config]: https://npmjs.com/package/@qubit-ltd/config
-[GitHub仓库]: https://github.com/Haixing-Hu/js-config 
+[GitHub仓库]: https://github.com/qubit-ltd/js-config 
